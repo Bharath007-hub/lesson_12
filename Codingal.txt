@@ -1,2 +1,4 @@
-File in write mode..Hi i am Bharath.
- File in append mode..Hello I am Bharth.
+Coding is my hobby
+Coding is interesting
+it is very interesting.
+i like it 
